@@ -1,0 +1,11 @@
+{
+	"urls": [
+		{
+			"name": "Classifica Logo: SAPUI5 ou Node.js",
+			"url": "<IMAGE_CLASSIFICATION_URL>",
+			"headers": {
+				"Authorization": "<TOKEN_TYPE> <ACCESS_TOKEN>"
+			}
+		}
+	]
+}

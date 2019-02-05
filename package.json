@@ -1,0 +1,15 @@
+{
+  "name": "bar8_sap_leo_sample",
+  "version": "1.0.0",
+  "description": "SAP UI5 application to consume SAP Leonardo APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor K. S. Kawabata",
+  "license": "ISC",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.16.4"
+  }
+}
